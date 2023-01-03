@@ -167,7 +167,7 @@ header nav ul li:hover {
 
 #projects-list ul li {
 	/*width: 33.3%;*/
-	width: 50%;
+	width: 100%;
 	float: left;
 	margin-bottom: 15px;
 }
