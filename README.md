@@ -1,7 +1,5 @@
 # Website
 
-Our Website :D
+My Website :D
 
-*Website still in Development...*
-
-Hosted with GitHub Pages, Link: https://deathgameproductions.github.io/
+Hosted with GitHub Pages, Link: https://mad-mushroom.github.io/
